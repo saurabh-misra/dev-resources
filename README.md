@@ -3,3 +3,6 @@ A list of all the resources that come in handy while developing web or mobile ap
 
 ### Favicon generation
 - [RealFaviconGenerator](https://realfavicongenerator.net/)
+
+### Icons
+- [Iconic](https://iconic.app/)
