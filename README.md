@@ -13,3 +13,4 @@ A list of all the resources that come in handy while developing web or mobile ap
 
 ### APIs
 - [JSONPlaceholder - Free Fake REST API](https://jsonplaceholder.typicode.com/)
+- [Public APIs](https://github.com/public-apis/public-apis)
