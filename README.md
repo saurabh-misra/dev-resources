@@ -15,5 +15,8 @@ A list of all the resources that come in handy while developing web or mobile ap
 - [JSONPlaceholder - Free Fake REST API](https://jsonplaceholder.typicode.com/)
 - [Public APIs](https://github.com/public-apis/public-apis)
 
+### Desktop apps
+[GluonJS-Develop desktop apps from websites](https://gluonjs.org/)
+
 ### Miscellaneous
 - [File Examples Download | Download any files at any size for demo or test use](https://file-examples.com/)
