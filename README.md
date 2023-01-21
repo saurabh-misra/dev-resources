@@ -1,6 +1,9 @@
 # Useful resources for software development
 A list of all the resources that come in handy while developing web or mobile apps.
 
+### Languages/Frameworks/Libraries
+- [Roadmaps](https://roadmap.sh/)
+
 ### Favicon generation
 - [RealFaviconGenerator](https://realfavicongenerator.net/)
 
