@@ -10,9 +10,10 @@ A list of all the resources that come in handy while developing web or mobile ap
 ### Icons
 - [Iconic](https://iconic.app/)
 
-### Images/Illustrations
+### Images/Illustrations/Backgrounds
 - [Free Illustrations by Scale](https://2.flexiple.com/scale/multi-color-illustrations)
 - [Undraw.co](https://undraw.co/)
+- [CSS Background Patterns](https://www.magicpattern.design/tools/css-backgrounds)
 
 ### APIs
 - [JSONPlaceholder - Free Fake REST API](https://jsonplaceholder.typicode.com/)
