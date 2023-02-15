@@ -15,6 +15,10 @@ A list of all the resources that come in handy while developing web or mobile ap
 - [Undraw.co](https://undraw.co/)
 - [CSS Background Patterns](https://www.magicpattern.design/tools/css-backgrounds)
 
+### Color Palletes
+- [Coolors](https://coolors.co)
+- [ColorHunt](https://colorhunt.co/)
+
 ### Layouts
 [Pure CSS Layouts](https://layout.bradwoods.io/)
 
