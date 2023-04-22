@@ -9,6 +9,7 @@ A list of all the resources that come in handy while developing web or mobile ap
 
 ### Icons
 - [Iconic](https://iconic.app/)
+- [Iconoir - 1300+ Open Source SVG Icons](https://iconoir.com/)
 
 ### Images/Illustrations/Backgrounds
 - [Free Illustrations by Scale](https://2.flexiple.com/scale/multi-color-illustrations)
